@@ -10,5 +10,15 @@ export const sample_foods: Food[] = [
         imageUrl: 'assets/veg-pizza.jpg',
         origins: ['India', 'asia'],
         cookTime: '40-30'
+    },
+    {
+        id: '2',
+        name: 'cheese pasta',
+        price: 12,
+        favorite: false,
+        stars: 4,
+        imageUrl: 'assets/cheese-pasta.jpg',
+        origins: ['Germany', 'europe'],
+        cookTime: '10-20'
     }
 ]
